@@ -1,0 +1,1 @@
+- Extract inline style into css file
